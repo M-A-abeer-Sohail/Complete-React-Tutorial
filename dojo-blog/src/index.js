@@ -3,6 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
+// npx create-react-app dojo-blog -> create a new app
+
+// to run it
+// $ npm install postcss@8.2.12
+// $ export NODE_OPTIONS=--openssl-legacy-provider
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
